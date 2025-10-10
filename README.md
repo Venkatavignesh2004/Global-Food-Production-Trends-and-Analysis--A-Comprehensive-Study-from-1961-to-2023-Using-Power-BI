@@ -1,9 +1,9 @@
 # Global Food Production Trends and Analysis: A Comprehensive Study from 1961 to 2023 Using Power BI
-  #Project Overview
+  # Project Overview
 
 This Power BI project analyzes global food production trends from 1961 to 2023. It provides insights into the production of key crops and fruits, highlighting trends by year and by country. The interactive dashboards allow users to explore the data and understand historical patterns in global food production.
 
-  #Objectives
+  # Objectives
 
 - Analyze global trends for major crops (rice, wheat, maize, tea, coffee, fruits).
 
@@ -13,7 +13,7 @@ This Power BI project analyzes global food production trends from 1961 to 2023. 
 
 - Provide interactive dashboards to support decision-making and research.
 
-   #Key Activities & Visualizations
+   # Key Activities & Visulizations 
 
 1. Sum of Rice Production (tonnes)
 
@@ -30,3 +30,10 @@ This Power BI project analyzes global food production trends from 1961 to 2023. 
 7. Sum of Maize Production (tonnes) by Year
 
 8. Sum of Grapes, Apples, Bananas, and Oranges Production (tonnes)
+
+   
+
+     # Tools and Technologies used
+ -  Power BI for data visualization
+ -  Excel/csv dataset as data source
+ -  Data cleaning and preprocessing is done using Power BI Query Editor
